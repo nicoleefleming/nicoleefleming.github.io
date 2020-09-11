@@ -1,6 +1,7 @@
-#Welcome to the Repositories and Descriptions for code written by Nicole Fleming!
+# Welcome to the Repositories and Descriptions for code written by Nicole Fleming!
 
-##Table of Contents
+## Table of Contents
+
 [Math 4610]()
 
 This repository holds all the work done in USU's Fall 2020 Numerical Methods course taught by Joe Koebbe. It will be made public upon graduation from USU.
