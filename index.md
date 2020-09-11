@@ -2,12 +2,12 @@
 
 ## Table of Contents
 
-[Math 4610]()
+[Math 4610](https://github.com/nicoleefleming/math4610/blob/master/README)
 
 This repository holds all the work done in USU's Fall 2020 Numerical Methods course taught by Joe Koebbe. It will be made public upon graduation from USU.
 The link will redirect you to the Tasksheet table of contents for the course. There is a link in the Table of Contents that will take you to the Software Manual for the course.
 
-[Math 5620]()
+[Math 5620](https://github.com/nicoleefleming/math5620/blob/master/README)
  
 This repository holds all the work done in USU's Spring 2020 Numerical Analysis of Differential Equations course taught by Joe Koebbe. It will be made public upon graduation from USU.
 The link will redirect you to the Tasksheet table of contents for the course.
