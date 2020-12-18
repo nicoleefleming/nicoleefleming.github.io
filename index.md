@@ -12,6 +12,11 @@ The link will redirect you to the Tasksheet table of contents for the course. Th
 This repository holds all the work done in USU's Spring 2020 Numerical Analysis of Differential Equations course taught by Joe Koebbe. It will be made public upon graduation from USU.
 The link will redirect you to the Tasksheet table of contents for the course.
 
+[Stat 5810](https://github.com/nicoleefleming/stat5810/blob/main/README.md)
+
+This repository holds all the work done in USU's Fall 2020 Mathematics For Machine Learning course taught by Kevin Moon. It will be made public upon graduation from USU.
+The link will redirect you to the Table of Contents for the course. Some of the documents of larger file sizes may not be accessible on Github.
+
 [CS2420 Algorithms and Data Structures](https://github.com/nicoleefleming/Algorithms-Data-Structures/blob/master/README.md)
 
 This houses all the code written while taking this course at USU from Andy Brim. This course was taught in Java. There are no Software Manual pages for this repository, as the idea of the manual was introduced a few years after taking this course.
